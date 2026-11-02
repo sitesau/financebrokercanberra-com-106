@@ -1,0 +1,22 @@
+{
+  "wheel_id": 678,
+  "structure": "umbrella",
+  "slug": "financebrokercanberra-com-106",
+  "project": "home-loan-brokers-canberra-planning-guide-a9b7312a48a8ddb0f60b0",
+  "parent_t1_ref": "financebrokercanberra-com-153",
+  "node_role": "feeder",
+  "money_target": "financebrokercanberra.com.au",
+  "primary_kw": "home loan brokers canberra planning guide",
+  "intended_url": "https://aumedia.neocities.org/home-loan-brokers-canberra-planning-guide-a9b7312a48a8ddb0f60b0/",
+  "tier": "T2",
+  "writeback_nonce": "c18452f2444862e7",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-loan-brokers-canberra-c08e8ee240563d3c86fa6db7f6c4453d0bcf/",
+      "anchor": "more on home loan brokers canberra",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
